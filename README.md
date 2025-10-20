@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# jwq-vue-temp
-vue cli template
-=======
 # hy-vue-temp
 
 ## Project setup
@@ -21,4 +17,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 4849491 (init)
