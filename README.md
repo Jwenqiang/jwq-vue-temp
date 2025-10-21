@@ -1,4 +1,4 @@
-# jwq-vue-temp
+# jwq-vue-temp vue2 template
 
 ## Project setup
 ```
